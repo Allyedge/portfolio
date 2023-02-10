@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex flex-col items-center bg-cover bg-fixed bg-repeat py-8 px-8 text-white md:py-16"
+    class="flex flex-col items-center bg-cover bg-scroll bg-repeat py-8 px-8 text-white md:py-16 lg:bg-fixed"
     :style="{
       'background-image': `url('images/background.png')`,
     }"
