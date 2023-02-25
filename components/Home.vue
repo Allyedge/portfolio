@@ -11,6 +11,13 @@
       <div class="mt-4 space-y-8 md:space-y-16">
         <Project
           :year="2023"
+          name="AllyDB"
+          image="/allydb.png"
+          description="An in-memory database built using Elixir."
+          link="https://github.com/Allyedge/allydb"
+        />
+        <Project
+          :year="2023"
           name="Germany Foreigners"
           image="/germany_foreigners.png"
           description="A map visualization of the amount of foreigners in Germany."
