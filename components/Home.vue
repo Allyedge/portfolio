@@ -17,13 +17,6 @@
           link="https://github.com/Allyedge/allydb"
         />
         <Project
-          :year="2023"
-          name="Germany Foreigners"
-          image="/germany_foreigners.png"
-          description="A map visualization of the amount of foreigners in Germany."
-          link="https://github.com/Allyedge/germany-foreigners"
-        />
-        <Project
           :year="2022"
           name="Allyignore"
           image="/allyignore.png"
